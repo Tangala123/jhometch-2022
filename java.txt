@@ -1,2 +1,3 @@
 git is first commit
 git is second commit
+git is not bad to learn the tool
