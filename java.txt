@@ -1,3 +1,4 @@
 git is first commit
 git is second commit
 Oranges are good for health
+git is not bad to learn the tool
